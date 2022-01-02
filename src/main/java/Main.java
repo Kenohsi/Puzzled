@@ -1,5 +1,20 @@
 public class Main {
-    public static void main(String[] args) {
+
+
+    public char[][] gameBoard;
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         // hiii Leute wilkommbe bei spilndsnslkd Spielregeln Handbuch
 
@@ -26,5 +41,6 @@ public class Main {
         // Neues Spiel
 
 
-    }
+
+
 }
